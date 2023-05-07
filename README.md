@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oktaykaypak&label=Profile%20views&color=0e75b6&style=flat" alt="oktaykaypak" /> </p>
 
-- 🔭 I’m currently working on [Textoni.com](https://textoni.com)
+- 🔭 I’m currently working on [Brandefense.io](https://brandefense.io)
 
 - 💬 Ask me about **All things front-end**
 
-- 📫 How to reach me **oktay_07_89@windowslive.com**
+- 📫 How to reach me **oktaykaypak@outlook.com**
 
 - 📄 Know about my experiences [https://oktaykaypak.github.io/#about-me](https://oktaykaypak.github.io/#about-me)
 
